@@ -1,4 +1,5 @@
 # CTSoutreach
 just for test FSE project
- 
-new upgrade to 1.1.1
+
+The objective of FSE Hackathon program is to engage associates collaboratively and rapidly to achieve the FSE certification over 6 weeks of duration.
+
